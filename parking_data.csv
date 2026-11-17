@@ -1,0 +1,11 @@
+Day,Hour,Parking_Zone,Working_Day,Previous_Occupancy,Weather,Future_Occupancy,Availability
+Monday,9,A,Yes,30,Normal,35,Available
+Monday,10,A,Yes,55,Normal,62,Limited
+Monday,11,A,Yes,72,Rainy,82,Full
+Tuesday,9,B,Yes,25,Normal,30,Available
+Tuesday,11,B,Yes,68,Rainy,85,Full
+Wednesday,10,C,Yes,40,Normal,45,Available
+Wednesday,12,C,Yes,75,Normal,90,Full
+Thursday,9,A,Yes,35,Rainy,40,Available
+Friday,10,B,Yes,60,Normal,70,Limited
+Friday,12,C,Yes,85,Rainy,95,Full
