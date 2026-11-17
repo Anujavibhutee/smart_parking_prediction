@@ -1,0 +1,60 @@
+Smart Parking Availability Prediction using Machine Learning
+
+Project Overview
+
+Smart Parking Availability Prediction is a machine learning-based project designed to help users understand parking availability through an interactive web dashboard.
+
+The project uses a trained machine learning model and parking dataset to provide a dashboard-based interface for exploring parking availability.
+
+Technologies Used
+
+* Python
+* Machine Learning
+* Streamlit
+* Pandas
+* Joblib
+* Scikit-learn
+
+Project Files
+
+* main.py – Main Streamlit dashboard application
+* inspect_data.py – Data inspection script
+* inspect_model.py – Model inspection script
+* parking_data.csv – Parking dataset
+* parking_model.pkl – Saved machine learning model
+* requirements.txt – Required Python libraries
+
+Features
+
+* Interactive web dashboard using Streamlit
+* Loads parking data from a CSV file
+* Loads a trained machine learning model
+* Displays parking availability information
+
+Installation and Setup
+
+1. Clone this repository:
+
+git clone https://github.com/Anujavibhute/smart_parking_prediction.git
+
+2. Navigate to the project folder:
+
+cd smart_parking_prediction
+
+3. Install the required libraries:
+
+pip install -r requirements.txt
+
+4. Run the application:
+
+streamlit run main.py
+
+Project Objective
+
+The objective of this project is to explore the use of machine learning in parking availability prediction and provide an interactive dashboard for presenting the results.
+
+Author
+
+Anuja Vibhute
+
+Artificial Intelligence and Data Science Engineering Student
